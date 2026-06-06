@@ -137,4 +137,4 @@ Unity3D Integration
 ### Bhanu Prasad Pitla
 
 - GitHub: https://github.com/bhanuprasad5066
-- LinkedIn: Add Your LinkedIn URL
+- LinkedIn:https://www.linkedin.com/in/bhanu-prasad-506b566p/
